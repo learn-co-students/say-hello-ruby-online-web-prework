@@ -1,1 +1,3 @@
-# Build your say_hello method here
+def say_hello("Alexandra")
+  prints "Hello,#{name}!"
+end 
