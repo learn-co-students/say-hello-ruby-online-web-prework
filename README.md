@@ -1,5 +1,7 @@
 # Say Hello
-
+def say_hello(name = "Ruby Programmer!")
+  puts "Hello #{name}"
+end
 ## Objectives
 
 1. Build a method that can be called with an optional argument by defining that method with a default argument.
